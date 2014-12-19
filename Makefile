@@ -6,3 +6,6 @@ rebuild: site
 
 site:
 	cabal build
+
+deploy: build
+	rsync --checksum -av _site/* ../ && git add . && git commit -m "Generated from `git rev-parse HEAD`" && git push
