@@ -32,11 +32,11 @@ div#header td.logo {
 
 @media only screen and (max-device-width: 1000px) {
     body {
-        font-size: 20px;
+        font-size: 30px;
     }
 
     div#header td.logo {
-        font-size: 22px;
+        font-size: 32px;
     }
 }
 
