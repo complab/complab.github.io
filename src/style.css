@@ -1,7 +1,17 @@
 body {
+    max-width: 75em;
+    margin: auto;
+    margin-top: 0.5em;
     color: #222;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
+}
+
+
+@media screen and (max-width: 600px) {
+    body {
+        max-width: 50em;
+    }
 }
 
 div#header {
@@ -15,14 +25,15 @@ div#header table {
 div#header td {
     background-color: #CCC;
     padding: 0.2em;
-    padding-left: 0.8em;
+    padding-left: 0.7em;
     padding-right: 0.8em;
 }
 
 div#header td.logo {
     width: 30%;
+    background-color: #ADD;
     text-align: left;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: bold;
 }
 
@@ -47,6 +58,7 @@ div#header td.navigation a {
 }
 
 div#header td.chalmers {
+    background-color: #ADD;
     text-align: right;
 }
 
@@ -69,3 +81,5 @@ h2 {
     font-size: 20px;
 }
 
+div#content {
+}
