@@ -10,3 +10,5 @@ Chalmers Computing Lab is an initiative by [Computer Science and Engineering](ht
 
 Our first move is to launch a [seminar series](tech-talks.html) to be held over lunch on Mondays in the beginning of 2015.
 
+TODO Sponsored by the ICT AOA
+
