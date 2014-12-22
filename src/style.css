@@ -6,12 +6,6 @@ body {
     margin: 0px;
 }
 
-@media only screen and (max-device-width: 1000px) {
-    body {
-        font-size: 17px;
-    }
-}
-
 div#header {
     margin-bottom: 10px;
 }
@@ -34,6 +28,16 @@ div#header td.logo {
     text-align: left;
     font-size: 19px;
     font-weight: bold;
+}
+
+@media only screen and (max-device-width: 1000px) {
+    body {
+        font-size: 20px;
+    }
+
+    div#header td.logo {
+        font-size: 22px;
+    }
 }
 
 div#header td.logo a {
