@@ -2,5 +2,5 @@
 title: Activities
 ---
 
-[Tech talks](tech-talks.html).
+  * [Tech talks](tech-talks.html)
 
