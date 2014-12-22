@@ -35,7 +35,7 @@ div#header table {
 div#header td {
     width: 25%;
     background-color: #CDD;
-    border-bottom: 1px solid #D3D3D3;
+    border-bottom: 1px solid #BBB;
     padding: 0.2em;
     padding-left: 0.7em;
     padding-right: 0.8em;
@@ -93,10 +93,23 @@ h2 {
 
 div#content {
     background-color: #F8F8F8;
-    border: 1px solid #D3D3D3;
+    border: 1px solid #BBB;
     max-width: 65em;
     margin: auto;
     padding: 0.5em;
+}
+
+div#content table {
+    background-color: white;
+    border: 1px solid #AAA;
+}
+
+div#content th {
+    padding-left: 0.8em;
+}
+
+div#content td {
+    padding-left: 0.8em;
 }
 
 /* From: https://gist.github.com/marcedwards/3446599 */
