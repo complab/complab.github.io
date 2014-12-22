@@ -87,15 +87,15 @@ div#content {
        only screen and (min-resolution: 120dpi)
 {
     body {
-        font-size: 26px;
+        font-size: 40px;
     }
 
     div#header td.logo {
         font-size: 28px;
     }
 
-    div#content {
-        font-size: 29px;
+    div#header td.navigation {
+        font-size: 26px;
     }
 }
 
