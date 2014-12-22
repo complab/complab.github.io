@@ -6,6 +6,12 @@ body {
     margin: 0px;
 }
 
+@media only screen and (max-device-width: 1000px) {
+    body {
+        font-size: 17px;
+    }
+}
+
 div#header {
     margin-bottom: 10px;
 }
