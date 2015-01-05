@@ -12,21 +12,21 @@ Along with the seminars, students will also be offered a [course on academic wri
 
 The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se/en/areas-of-advance/ict/Pages/default.aspx).
 
+\
+
+
+
 ## Schedule
 
-  <div style="margin-left: 3em;">
-
-\           Speaker                      Topic
-----        -------                      ----
-**26/1**    Niklas Gustavsson (Spotify)  TBA
-**2/2**     Andreas Olofsson (Adapteva)  TBA
-**9/2**     Åhlander Anders (Saab)       Embedded High-Performance Processing
-**16/2**    Angela Wallenburg            TBA
-**23/2**    Andreas Brinck (EA Ghost)    Real Time Deformation in Need For Speed™
-**2/3**     Jonn Lantz (Volvo)           TBA
-**9/3**     Claes Wikström (Cisco)       TBA
-
-  </div>
+       \  Speaker                      Topic
+--------  -------                      ----
+**26/1**  Niklas Gustavsson (Spotify)  TBA
+ **2/2**  Andreas Olofsson (Adapteva)  TBA
+ **9/2**  Åhlander Anders (Saab)       Embedded High-Performance Processing
+**16/2**  Angela Wallenburg            TBA
+**23/2**  Andreas Brinck (EA Ghost)    Real Time Deformation in Need For Speed™
+ **2/3**  Jonn Lantz (Volvo)           Model Driven Development in Automotive Mechatronics
+ **9/3**  Claes Wikström (Cisco)       TBA
 
 The presentations will be held from 12.00 to 13.00 in the [EDIT building](http://maps.chalmers.se/#4009427d-076f-46ff-ad75-f90cff5919fb). The exact room will be announced later.
 
