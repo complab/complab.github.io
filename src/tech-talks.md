@@ -20,7 +20,7 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
 
        \  Speaker                      Topic
 --------  -------                      ----
-**26/1**  Niklas Gustavsson (Spotify)  [Optimizing audio content delivery at scale](abstracts.html#gustavsson)
+**26/1**  Niklas Gustavsson (Spotify)  [Optimizing Audio Content Delivery at Scale](abstracts.html#gustavsson)
  **2/2**  Andreas Olofsson (Adapteva)  TBA
  **9/2**  Åhlander Anders (Saab)       Embedded High-Performance Processing
 **16/2**  Angela Wallenburg            TBA
