@@ -21,7 +21,7 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
        \  Speaker                      Topic
 --------  -------                      ----
 **26/1**  Niklas Gustavsson (Spotify)  [Optimizing Audio Content Delivery at Scale](abstracts.html#gustavsson)
- **2/2**  Andreas Olofsson (Adapteva)  TBA
+ **2/2**  Andreas Olofsson (Adapteva)  [Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place](abstracts.html#olofsson)
  **9/2**  Åhlander Anders (Saab)       Embedded High-Performance Processing
 **16/2**  Angela Wallenburg            TBA
 **23/2**  Andreas Brinck (EA Ghost)    Real Time Deformation in Need For Speed™

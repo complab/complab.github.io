@@ -32,6 +32,20 @@ conditions.
 
 
 
+## Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place {#olofsson}
+
+>| *Speaker: Andreas Olofsson (Adapteva)*
+>| *Monday, 2/2, 12.00 - 13.00*
+
+In 2008 I left my long time employer (Analog Devices) to start a
+company with a mission to build a new type of parallel computer. This talk
+will present the inspiration, design philosophy, mistakes, success,
+iterations and surprises encountered in designing the Epiphany computer
+architecture, four generations of Epiphany chips, and the $99 Parallella
+credit card sized "supercomputer" project.
+
+
+
 ## Model Driven Development in Automotive Mechatronics {#lantz}
 
 >| *Speaker: Jonn Lantz (Volvo Cars)*
