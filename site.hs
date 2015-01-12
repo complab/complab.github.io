@@ -1,8 +1,17 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+import qualified Data.Map as Map
+import Data.Monoid
+
 import Hakyll
+import Hakyll.Core.Rules
 
 
+
+homeContext = mconcat
+    [ defaultContext
+    , constField "homePage" ""
+    ]
 
 main :: IO ()
 main = hakyllWith defaultConfiguration {providerDirectory = "src"} $ do
@@ -18,11 +27,19 @@ main = hakyllWith defaultConfiguration {providerDirectory = "src"} $ do
         route idRoute
         compile copyFileCompiler
 
-    match "*.md" $ do
+    matchMetadata "*.md" isHome $ do
+        route $ setExtension "html"
+        compile $ pandocCompiler
+            >>= loadAndApplyTemplate "template.html" homeContext
+            >>= relativizeUrls
+
+    matchMetadata "*.md" (not . isHome) $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "template.html" defaultContext
             >>= relativizeUrls
 
     match "template.html" $ compile templateCompiler
+  where
+    isHome meta = Map.lookup "title" meta == Just "Home"
 
