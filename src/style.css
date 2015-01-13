@@ -100,17 +100,17 @@ div.content {
     padding: 0.5em;
 }
 
-div#content table {
+div.content table {
     background-color: white;
     border: 1px solid #CCC;
 }
 
-div#content th {
+div.content th {
     padding-left: 0.6em;
     padding-right: 0.6em;
 }
 
-div#content td {
+div.content td {
     padding-left: 0.6em;
     padding-right: 0.6em;
 }
