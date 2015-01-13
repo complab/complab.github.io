@@ -18,7 +18,7 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
 
 ## Schedule
 
-       \  Speaker                      Topic
+Day       Speaker                      Topic
 --------  -------                      ----
 **26/1**  Niklas Gustavsson (Spotify)  [Optimizing Audio Content Delivery at Scale](abstracts.html#gustavsson)
  **2/2**  Andreas Olofsson (Adapteva)  [Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place](abstracts.html#olofsson)

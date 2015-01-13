@@ -106,11 +106,13 @@ div.content table {
 }
 
 div.content th {
-    padding-left: 0.6em;
-    padding-right: 0.6em;
+    padding: 0.6em;
+    padding-bottom: 0.2em;
+    border-bottom: 1px solid #CCC;
 }
 
 div.content td {
+    padding: 0.3em;
     padding-left: 0.6em;
     padding-right: 0.6em;
 }
