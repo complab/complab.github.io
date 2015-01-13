@@ -91,11 +91,12 @@ h2 {
     font-size: 16px;
 }
 
-div#content {
+div.content {
     background-color: #F8F8F8;
     border: 1px solid #BBB;
     max-width: 65em;
     margin: auto;
+    margin-bottom: 1em;
     padding: 0.5em;
 }
 
