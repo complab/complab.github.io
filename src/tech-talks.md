@@ -24,7 +24,7 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
  **2/2**  Andreas Olofsson (Adapteva)  [Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place](abstracts.html#olofsson)
  **9/2**  Åhlander Anders (Saab)       Embedded High-Performance Processing
 **16/2**  Angela Wallenburg            TBA
-**23/2**  Andreas Brinck (EA Ghost)    Real Time Deformation in Need For Speed™
+**23/2**  Andreas Brinck (EA Ghost)    [Real Time Deformation in Need For Speed™](abstracts.html#brinck)
  **2/3**  Jonn Lantz (Volvo Cars)      [Model Driven Development in Automotive Mechatronics](abstracts.html#lantz)
  **9/3**  Claes Wikström (Cisco)       TBA
 
