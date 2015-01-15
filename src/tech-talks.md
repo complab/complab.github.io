@@ -28,5 +28,5 @@ Day       Speaker                      Topic
  **2/3**  Jonn Lantz (Volvo Cars)      [Model Driven Development in Automotive Mechatronics](abstracts.html#lantz)
  **9/3**  Claes Wikström (Cisco)       TBA
 
-The presentations will be held from 12.00 to 13.00 in the [EDIT building](http://maps.chalmers.se/#4009427d-076f-46ff-ad75-f90cff5919fb). The exact room will be announced later.
+Each presentation will be held from 12.00 to 13.00 in [room EC in the EDIT building](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70).
 
