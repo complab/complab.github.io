@@ -132,3 +132,7 @@ div.content td {
     }
 }
 
+img#need-for-speed {
+  float: right;
+  padding-left: 3em;
+}

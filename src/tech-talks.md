@@ -4,6 +4,8 @@ title: Tech talks
 
 
 
+  <img src="/images/nfs.png" alt="Need for Speed™" width="270px" id="need-for-speed">
+
 # Computing Lab Tech Talks
 
 We will hold a series of technical seminars over lunch on Mondays from Jan 26 to March 9 in 2015. They are open to anyone interested: students, practitioners and researchers are welcome! The focus of the seminars will be on interesting challenges in industry.

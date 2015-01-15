@@ -14,7 +14,7 @@ homeContext = mconcat
 
 main :: IO ()
 main = hakyllWith defaultConfiguration {providerDirectory = "src"} $ do
-    match "*.png" $ do
+    match "images/*" $ do
         route idRoute
         compile copyFileCompiler
 

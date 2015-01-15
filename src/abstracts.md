@@ -66,6 +66,8 @@ credit card sized "supercomputer" project.
 
 ## Real Time Deformation in Need for Speed™ {#brinck}
 
+  <img src="/images/nfs.png" alt="Need for Speed™" width="170px" id="need-for-speed">
+
 >| *<u>Speaker</u>: Andreas Brinck (EA Ghost)*
 >| *<u>Time</u>: Monday, 23/2, 12.00 - 13.00*
 
