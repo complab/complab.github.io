@@ -64,7 +64,7 @@ credit card sized "supercomputer" project.
 
 
 
-## Real Time Deformation in Need For Speed™ {#brinck}
+## Real Time Deformation in Need for Speed™ {#brinck}
 
 >| *<u>Speaker</u>: Andreas Brinck (EA Ghost)*
 >| *<u>Time</u>: Monday, 23/2, 12.00 - 13.00*

@@ -24,7 +24,7 @@ Day       Speaker                      Topic
  **2/2**  Andreas Olofsson (Adapteva)  [Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place](abstracts.html#olofsson)
  **9/2**  Anders Åhlander (Saab)       [Embedded High-Performance Processing](abstracts.html#ahlander)
 **16/2**  Angela Wallenburg            [TBA](abstracts.html#wallenburg)
-**23/2**  Andreas Brinck (EA Ghost)    [Real Time Deformation in Need For Speed™](abstracts.html#brinck)
+**23/2**  Andreas Brinck (EA Ghost)    [Real Time Deformation in Need for Speed™](abstracts.html#brinck)
  **2/3**  Jonn Lantz (Volvo Cars)      [Model Driven Development in Automotive Mechatronics](abstracts.html#lantz)
  **9/3**  Claes Wikström (Cisco)       [TBA](abstracts.html#wikstrom)
 
