@@ -50,10 +50,14 @@ credit card sized "supercomputer" project.
 
 
 
-## Embedded High-Performance Processing {#ahlander}
+## Embedded High-Performance Processing -- Challenges in Long-Lifetime Applications {#ahlander}
 
 >| *<u>Speaker</u>: Anders Åhlander (Saab)*
 >| *<u>Time</u>: Monday, 9/2, 12.00 - 13.00*
+
+There is typically a mismatch between the life time of a processing technology generation and the life time of a sensor application. For instance, a radar application may have a life span of 20 years, which translates to many generations of processing technology. This imposes several interesting problems.
+
+This talk will focus on how to get engineer efficient development/maintenance of long-lifetime embedded high-performance applications. How do we handle the mismatch in life time, can we efficiently exploit the evolving processor architectures for functional growth and increased system performance, what possibilities for higher engineering efficiency arise when computational performance increases, etc.?
 
 
 
