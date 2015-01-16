@@ -38,6 +38,8 @@ conditions.
 
 ## Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place {#olofsson}
 
+  <img src="/images/parallella.png" alt="Parallella board" width="22%" class="talk-img">
+
 >| *<u>Speaker</u>: Andreas Olofsson (Adapteva)*
 >| *<u>Time</u>: Monday, 2/2, 12.00 - 13.00*
 
@@ -70,7 +72,7 @@ This talk will focus on how to get engineer efficient development/maintenance of
 
 ## Real Time Deformation in Need for Speed™ {#brinck}
 
-  <img src="/images/nfs.png" alt="Need for Speed™" width="25%" id="need-for-speed">
+  <img src="/images/nfs.png" alt="Need for Speed™" width="25%" class="talk-img">
 
 >| *<u>Speaker</u>: Andreas Brinck (EA Ghost)*
 >| *<u>Time</u>: Monday, 23/2, 12.00 - 13.00*
