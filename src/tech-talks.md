@@ -36,7 +36,7 @@ Each presentation will be held from 12.00 to 13.00 in [room EC in the EDIT build
 
 There is also an associated [calendar for the talks](https://www.google.com/calendar/embed?src=vk6mn4kquejl2d5hhus4bpkg2c%40group.calendar.google.com&ctz=Europe/Stockholm).
 
-  <div style="text-align: right; font-size: 150%;">
-[\ ](attendance.html)
+  <div style="text-align: right;">
+[*](attendance.html)
   </div>
 
