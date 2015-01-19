@@ -8,7 +8,7 @@ site:
 	cabal build
 
 deploy: build
-	rm *.jpg *.png *.html && \
+	rm -f *.jpg *.png *.html && \
 	rsync --checksum -av _site/* ./ # && \
 	git add . && \
 	git commit -m "Generated from `git rev-parse HEAD`" && \
