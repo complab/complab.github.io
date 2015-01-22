@@ -17,6 +17,13 @@ title: Abstracts
 
 
 
+# Tech talks schedule with abstracts
+
+\
+
+
+
+
 ## Optimizing Audio Content Delivery at Scale {#gustavsson .first}
 
 >| *<u>Speaker</u>: Niklas Gustavsson (Spotify)*
