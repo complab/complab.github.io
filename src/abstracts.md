@@ -70,10 +70,16 @@ This talk will focus on how to get engineer efficient development/maintenance of
 
 
 
-## TBA {#wallenburg}
+## Safe and Secure Programming Using SPARK {#wallenburg}
 
 >| *<u>Speaker</u>: Angela Wallenburg*
 >| *<u>Time</u>: Monday, 16/2, 12.00 - 13.00*
+
+Sometimes software really has to work. SPARK is a programming language, a verification toolset and a design method which, taken together, ensure that ultra-low defect software can be deployed. By design, the SPARK language is immune to many programming language vulnerabilities (such as those listed by NIST/CWE/SANS). Under the hood, the SPARK static analysis tools use formal verification (automatic mathematical proof).
+
+Generally formal verification is rarely used in industry due to its high cost and level of skill required. However, over the past 25 years SPARK has been applied worldwide in a range of industrial applications. A few examples include Rolls Royce Trent (engine control), EuroFighter Typhoon (military aircraft), and NATS iFACTS (air traffic control). Recently, SPARK has been attributed the reason of success for the Vermont Tech CubeSat, the only one that is still fully operational of NASA’s 2013 launch of 11 mini satellites (ELaNa project).
+
+During this talk you will learn about the rationale of SPARK. We will cover topics such as strong typing, unambiguous semantics, modular verification, contracts, the verifying compiler, scalability, powerful static analysis, combination of test and proof, and cost-competitive development of software to regulations (such as DO-178C).
 
 
 
