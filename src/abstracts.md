@@ -74,7 +74,7 @@ This talk will focus on how to get engineer efficient development/maintenance of
 
   <img src="http://www.adacore.com/uploads/customers/project-atc.jpg" alt="SPARK" width="25%" class="talk-img">
 
->| *<u>Speaker</u>: Angela Wallenburg*
+>| *<u>Speaker</u>: Angela Wallenburg (Altran UK)*
 >| *<u>Time</u>: Monday, 16/2, 12.00 - 13.00*
 
 Sometimes software really has to work. SPARK is a programming language, a verification toolset and a design method which, taken together, ensure that ultra-low defect software can be deployed. By design, the SPARK language is immune to many programming language vulnerabilities (such as those listed by NIST/CWE/SANS). Under the hood, the SPARK static analysis tools use formal verification (automatic mathematical proof).
