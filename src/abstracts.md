@@ -72,6 +72,8 @@ This talk will focus on how to get engineer efficient development/maintenance of
 
 ## Safe and Secure Programming Using SPARK {#wallenburg}
 
+  <img src="http://www.adacore.com/uploads/customers/project-atc.jpg" alt="SPARK" width="25%" class="talk-img">
+
 >| *<u>Speaker</u>: Angela Wallenburg*
 >| *<u>Time</u>: Monday, 16/2, 12.00 - 13.00*
 
