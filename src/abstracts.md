@@ -29,6 +29,8 @@ title: Abstracts
 >| *<u>Speaker</u>: Niklas Gustavsson (Spotify)*
 >| *<u>Time</u>: Monday, 26/1, 12.00 - 13.00*
 
+▶ [Slides](http://www.cse.chalmers.se/~laurako/links/spotify.pdf)
+
 Spotify delivers, and this is the technical term, a shitload of audio
 content to its users. And we want to do so with low perceived latency
 and good audio quality. As the number of users increases, lives in
