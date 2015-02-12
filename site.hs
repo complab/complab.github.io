@@ -18,6 +18,10 @@ main = hakyllWith defaultConfiguration {providerDirectory = "src"} $ do
         route idRoute
         compile copyFileCompiler
 
+    match "tech-talks/*" $ do
+        route idRoute
+        compile copyFileCompiler
+
     match "*.css" $ do
         route idRoute
         compile copyFileCompiler

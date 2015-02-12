@@ -52,6 +52,8 @@ conditions.
 >| *<u>Speaker</u>: Andreas Olofsson (Adapteva)*
 >| *<u>Time</u>: Monday, 2/2, 12.00 - 13.00*
 
+▶ [Slides](tech-talks/olofsson_adapteva.pdf)
+
 In 2008 I left my long time employer (Analog Devices) to start a
 company with a mission to build a new type of parallel computer. This talk
 will present the inspiration, design philosophy, mistakes, success,
@@ -65,6 +67,8 @@ credit card sized "supercomputer" project.
 
 >| *<u>Speaker</u>: Anders Åhlander (Saab)*
 >| *<u>Time</u>: Monday, 9/2, 12.00 - 13.00*
+
+▶ [Slides](http://www.cse.chalmers.se/~laurako/links/saab.pdf)
 
 There is typically a mismatch between the life time of a processing technology generation and the life time of a sensor application. For instance, a radar application may have a life span of 20 years, which translates to many generations of processing technology. This imposes several interesting problems.
 
