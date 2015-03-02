@@ -111,8 +111,8 @@ The automotive industry today is transforming rapidly, in a way similar to the t
 
 
 
-## TBA {#wikstrom}
+## TBA {#hughes}
 
->| *<u>Speaker</u>: Claes Wikström (Cisco)*
+>| *<u>Speaker</u>: John Hughes (QuviQ)*
 >| *<u>Time</u>: Monday, 9/3, 12.00 - 13.00*
 

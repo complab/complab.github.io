@@ -30,7 +30,7 @@ Day       Speaker                        Topic
 **16/2**  Angela Wallenburg (Altran UK)  [Safe and Secure Programming Using SPARK](abstracts.html#wallenburg)
 **23/2**  Andreas Brinck (EA Ghost)      [Real Time Deformation in Need for Speed™](abstracts.html#brinck)
  **2/3**  Jonn Lantz (Volvo Cars)        [Model Driven Development in Automotive Mechatronics](abstracts.html#lantz)
- **9/3**  Claes Wikström (Cisco)         [TBA](abstracts.html#wikstrom)
+ **9/3**  John Hughes (QuviQ)            [TBA](abstracts.html#hughes)
 
 Each presentation will be held from 12.00 to 13.00 in [room EC in the EDIT building](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70).
 
