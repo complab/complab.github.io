@@ -43,6 +43,8 @@ There is also an associated [calendar for the talks](https://www.google.com/cale
   <a href="tech-talks/spotify-talk.jpg"><img src="tech-talks/spotify-talk.jpg" alt="Spotify talk" width="31%"></a>
   &nbsp;
   <a href="tech-talks/ghost-talk.jpg"><img src="tech-talks/ghost-talk.jpg" alt="EA Ghost talk" width="31%"></a>
+  &nbsp;
+  <a href="tech-talks/volvo-talk.jpg"><img src="tech-talks/volvo-talk.jpg" alt="Volvo talk" width="31%"></a>
 
   <div style="text-align: right;">
 [*](attendance.html)
