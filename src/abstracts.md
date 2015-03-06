@@ -116,3 +116,14 @@ The automotive industry today is transforming rapidly, in a way similar to the t
 >| *<u>Speaker</u>: John Hughes (QuviQ)*
 >| *<u>Time</u>: Monday, 9/3, 12.00 - 13.00*
 
+In this talk, which is based on presentations I have given many times at
+industry conferences, I will show how QuickCheck can be used to test
+traditional imperative code written in C, as well as functional code in
+Erlang, and I will talk about our experiences applying it to embedded
+software for Volvo Cars and tricky cases like race conditions that
+regularly brought down Klarna’s servers. I’m not going to assume any
+knowledge of functional programming, so this talk should be accessible to
+all.
+
+Come and hear about our experiences of putting FP research to work!
+
