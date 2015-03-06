@@ -111,7 +111,7 @@ The automotive industry today is transforming rapidly, in a way similar to the t
 
 
 
-## TBA {#hughes}
+## Testing the Hard Stuff {#hughes}
 
 >| *<u>Speaker</u>: John Hughes (QuviQ)*
 >| *<u>Time</u>: Monday, 9/3, 12.00 - 13.00*
