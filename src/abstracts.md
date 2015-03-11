@@ -118,6 +118,8 @@ The automotive industry today is transforming rapidly, in a way similar to the t
 >| *<u>Speaker</u>: John Hughes (QuviQ)*
 >| *<u>Time</u>: Monday, 9/3, 12.00 - 13.00*
 
+▶ [Slides](tech-talks/hughes_quviq.pptx)
+
 In this talk, which is based on presentations I have given many times at
 industry conferences, I will show how QuickCheck can be used to test
 traditional imperative code written in C, as well as functional code in
