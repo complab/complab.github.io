@@ -20,6 +20,18 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
 
 
 
+## Extra tech talk
+
+There will be an extra tech talk in study period 4 by Russell Brown (Basho Technologies) about Basho and the Riak database.
+
+>| *<u>Title</u>: [CRDT sets from paper to product](abstracts.html#brown)*
+>| *<u>Time</u>: Wednesday, May 27, 15.15 - 16.15*
+>| *<u>Place</u>: [Room EC, D&IT building, Chalmers Johanneberg](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70)*
+
+\
+
+
+
 ## Schedule
 
                            Day  Speaker                        Topic
@@ -32,7 +44,7 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
 <span class=red>**3/3**</span>  Jonn Lantz (Volvo Cars)        [Model Driven Development in Automotive Mechatronics](abstracts.html#lantz)
                        **9/3**  John Hughes (QuviQ)            [Testing the Hard Stuff](abstracts.html#hughes)
 
-Each presentation will be held from 12.00 to 13.00 in [room EC in the EDIT building](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70).
+Each presentation will be held from 12.00 to 13.00 in [room EC, D&IT building, Chalmers Johanneberg](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70).
 
 There is also an associated [calendar for the talks](https://www.google.com/calendar/embed?src=vk6mn4kquejl2d5hhus4bpkg2c%40group.calendar.google.com&ctz=Europe/Stockholm).
 
