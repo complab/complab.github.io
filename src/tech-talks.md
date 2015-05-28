@@ -27,6 +27,8 @@ There will be an extra tech talk in study period 4 by Russell Brown (Basho Techn
 >| *<u>Title</u>: [CRDT sets from paper to product](abstracts.html#brown)*
 >| *<u>Time</u>: Wednesday, May 27, 15.15 - 16.15*
 >| *<u>Place</u>: [Room EC, D&IT building, Chalmers Johanneberg](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70)*
+>| [Slides](tech-talks/brown_basho.pdf)
+
 
 \
 
