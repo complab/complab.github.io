@@ -140,6 +140,8 @@ Come and hear about our experiences of putting FP research to work!
 >| *<u>Speaker</u>: Russell Brown (Basho Technologies)*
 >| *<u>Time</u>: Wednesday, May 27, 15.15 - 16.15*
 
+▶ [Slides](tech-talks/brown_basho.pdf)
+
 An experience report of taking an academic paper and putting it
 into a commercial product. In this instance an [INRIA tech report](https://hal.inria.fr/inria-00555588)
 on eventually consistent data types and [Bashos's Riak Database](http://basho.com/riak/).
