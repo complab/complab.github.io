@@ -16,6 +16,7 @@ We started out with a [series of lunch seminars](tech-talks.html) in the beginni
 
 # News
 
+  * [Internships at Facebook](https://www.facebook.com/careers/university/internships/engineering?attachment_canonical_url=https%3A%2F%2Fwww.facebook.com%2Fcareers%2Funiversity%2Finternships%2Fengineering)!
   * On <u>May 27, 2015</u>, Russell Brown (Basho Technologies) will give a [tech talk](abstracts.html#brown) about Basho and the Riak database.
 
     >| *<u>Time</u>:  Wednesday, May 27, 15.15 - 16.15*
