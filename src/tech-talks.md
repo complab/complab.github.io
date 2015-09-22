@@ -8,7 +8,7 @@ title: Tech talks
 
 # Computing Lab Tech Talks
 
-We will hold a series of technical seminars over lunch on Mondays from Jan 26 to March 9 in 2015. They are open to anyone interested: students, practitioners and researchers are welcome! The focus of the seminars will be on interesting challenges in industry.
+We will hold a series of technical seminars *over lunch on Mondays from Jan 26 to March 9 in 2015*. They are open to anyone interested: students, practitioners and researchers are welcome! The focus of the seminars will be on interesting challenges in industry.
 
 Lunch baguettes will be served for the early-comers.
 
@@ -38,7 +38,7 @@ There will be an extra tech talk in study period 4 by Russell Brown (Basho Techn
 
                            Day  Speaker                        Topic
 ------------------------------  -------                        ----
-                      **26/1**  Niklas Gustavsson (Spotify)    [Optimizing Audio Content Delivery at Scale](abstracts.html#gustavsson)
+               **26/1 - 2015**  Niklas Gustavsson (Spotify)    [Optimizing Audio Content Delivery at Scale](abstracts.html#gustavsson)
                        **2/2**  Andreas Olofsson (Adapteva)    [Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place](abstracts.html#olofsson)
                        **9/2**  Anders Åhlander (Saab)         [Embedded High-Performance Processing -- Challenges in Long-Lifetime Applications](abstracts.html#ahlander)
                       **16/2**  Angela Wallenburg (Altran UK)  [Safe and Secure Programming Using SPARK](abstracts.html#wallenburg)
