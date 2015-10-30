@@ -16,6 +16,8 @@ We started out with a [series of lunch seminars](tech-talks.html) in the beginni
 
 # News
 
+  * During <u>Nov 4 &ndash; Dec 16</u> there will be a new sequence of tech talks as part of our new masters course [The Computer Scientist in Society](http://www.cse.chalmers.se/~ptr/tcsis.html).
+
   * [QuickCheck User Workshop](http://advanced-erlang.com/workshops/#oct6-15-event) on <u>Oct 6, 2015</u> at Chalmers
 
   * [Internships at Facebook](https://www.facebook.com/careers/university/internships/engineering?attachment_canonical_url=https%3A%2F%2Fwww.facebook.com%2Fcareers%2Funiversity%2Finternships%2Fengineering)!
