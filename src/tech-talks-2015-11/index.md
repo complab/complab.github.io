@@ -16,21 +16,6 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
 
 ## Schedule
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             Day  Speaker                                   Topic
 ---------------  -------                                   ----
 **4/11 - 2015**  Jonas Cremon (ARM)                        [Video processors by ARM in smartphones: Parallel software and hardware optimized for high speed and low power consumption](abstracts.html#cremon)
