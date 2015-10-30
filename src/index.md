@@ -8,7 +8,7 @@ title: Home
 
 The Computing Lab is an initiative by [Computer Science and Engineering](http://www.chalmers.se/cse/) which aims to be a forum where people from industry and academia can meet and find common interests.
 
-We started out with a [series of lunch seminars](tech-talks-2015-01/index.html) in the beginning of 2015, and we are planning a new series in Nov 2015.
+We have organized [two seminar series](activities.html) with technical presentations from a wide variety of companies in Sweden and abroad. The [current series](tech-talks-2015-11/index.html) starts in Nov 2015.
 
 \
 
@@ -16,7 +16,7 @@ We started out with a [series of lunch seminars](tech-talks-2015-01/index.html) 
 
 # News
 
-  * During <u>Nov 4 &ndash; Dec 16</u> there will be a new sequence of tech talks as part of our new masters course [The Computer Scientist in Society](http://www.cse.chalmers.se/~ptr/tcsis.html).
+  * During <u>Nov 4 &ndash; Dec 16</u> there will be [a new series](tech-talks-2015-11/index.html) of our popular tech talks as part of a new masters course.
 
   * [QuickCheck User Workshop](http://advanced-erlang.com/workshops/#oct6-15-event) on <u>Oct 6, 2015</u> at Chalmers
 
