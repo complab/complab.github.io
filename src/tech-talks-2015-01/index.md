@@ -61,8 +61,3 @@ There is also an associated [calendar for the talks](https://www.google.com/cale
   <a href="ghost-talk.jpg"><img src="ghost-talk.jpg" alt="EA Ghost talk" width="31%"></a>
   &nbsp;
   <a href="volvo-talk.jpg"><img src="volvo-talk.jpg" alt="Volvo talk" width="31%"></a>
-
-  <div style="text-align: right;">
-[*](attendance.html)
-  </div>
-
