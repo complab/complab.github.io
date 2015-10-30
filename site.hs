@@ -1,7 +1,9 @@
+{-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE OverloadedStrings #-}
 
+import Data.List
 import qualified Data.Map as Map
-import Data.Monoid
+import Data.String
 
 import Hakyll
 
@@ -12,19 +14,15 @@ homeContext = mconcat
     , constField "homePage" ""
     ]
 
+matchCopy :: String -> Rules ()
+matchCopy ext = match (fromString ("**." ++ ext)) $ do
+    route idRoute
+    compile copyFileCompiler
+
 main :: IO ()
 main = hakyllWith defaultConfiguration {providerDirectory = "src"} $ do
-    match "images/*" $ do
-        route idRoute
-        compile copyFileCompiler
 
-    match "tech-talks/*" $ do
-        route idRoute
-        compile copyFileCompiler
-
-    match "*.css" $ do
-        route idRoute
-        compile copyFileCompiler
+    match "template.html" $ compile templateCompiler
 
     matchMetadata "*.md" isHome $ do
         route $ setExtension "html"
@@ -32,20 +30,24 @@ main = hakyllWith defaultConfiguration {providerDirectory = "src"} $ do
             >>= loadAndApplyTemplate "template.html" homeContext
             >>= relativizeUrls
 
-    matchMetadata "*.md" (not . isHome) $ do
+    matchMetadata "**.md" (not . isHome) $ do
         route $ setExtension "html"
         compile $ pandocCompiler
             >>= loadAndApplyTemplate "template.html" defaultContext
             >>= relativizeUrls
 
-    matchMetadata "*.md" isAbstracts $ version "inline" $ do
-        route $ constRoute "abstracts-inline.html"
+    matchMetadata "**.md" isAbstracts $ version "inline" $ do
+        route $ setExtension "inline.html"
         compile $ pandocCompiler
-      -- `version` needed (for the build planner, I think) because we're compiling two versions of
-      -- the same source
+      -- `version` needed (for the build planner, I think) because we're
+      -- compiling two versions of the same source
 
-    match "template.html" $ compile templateCompiler
+    mapM_ matchCopy ["css","pdf","pptx","ppt","png","jpg"]
+
   where
-    isHome meta      = Map.lookup "title" meta == Just "Home"
-    isAbstracts meta = Map.lookup "title" meta == Just "Abstracts"
+    isHome meta = Map.lookup "title" meta == Just "Home"
+
+    isAbstracts meta = case Map.lookup "title" meta of
+        Just abstr -> "Abstracts" `isPrefixOf` abstr
+        _ -> False
 

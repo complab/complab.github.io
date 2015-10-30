@@ -8,7 +8,7 @@ title: Home
 
 The Computing Lab is an initiative by [Computer Science and Engineering](http://www.chalmers.se/cse/) which aims to be a forum where people from industry and academia can meet and find common interests.
 
-We started out with a [series of lunch seminars](tech-talks.html) in the beginning of 2015, and we are planning a new series in Nov 2015.
+We started out with a [series of lunch seminars](tech-talks-2015-01/index.html) in the beginning of 2015, and we are planning a new series in Nov 2015.
 
 \
 
@@ -22,7 +22,7 @@ We started out with a [series of lunch seminars](tech-talks.html) in the beginni
 
   * [Internships at Facebook](https://www.facebook.com/careers/university/internships/engineering?attachment_canonical_url=https%3A%2F%2Fwww.facebook.com%2Fcareers%2Funiversity%2Finternships%2Fengineering)!
 
-  * On <u>May 27, 2015</u>, Russell Brown (Basho Technologies) will give a [tech talk](abstracts.html#brown) about Basho and the Riak database.
+  * On <u>May 27, 2015</u>, Russell Brown (Basho Technologies) will give a [tech talk](tech-talks-2015-01/abstracts.html#brown) about Basho and the Riak database.
 
     >| *<u>Time</u>:  Wednesday, May 27, 15.15 - 16.15*
     >| *<u>Place</u>: [Room EC, D&IT building, Chalmers Johanneberg](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70)*

@@ -1,12 +1,12 @@
 ---
-title: Tech talks
+title: Tech talks &ndash; 2015-01
 ---
 
 
 
-  <img src="/images/nfs.png" alt="Need for Speed™" width="30%" class="talk-img">
+  <img src="nfs.png" alt="Need for Speed™" width="30%" class="talk-img">
 
-# Computing Lab Tech Talks
+# Computing Lab Tech Talks -- 2015-01
 
 We will hold a series of technical seminars *over lunch on Mondays from Jan 26 to March 9 in 2015*. They are open to anyone interested: students, practitioners and researchers are welcome! The focus of the seminars will be on interesting challenges in industry.
 
@@ -27,7 +27,7 @@ There will be an extra tech talk in study period 4 by Russell Brown (Basho Techn
 >| *<u>Title</u>: [CRDT sets from paper to product](abstracts.html#brown)*
 >| *<u>Time</u>: Wednesday, May 27, 15.15 - 16.15*
 >| *<u>Place</u>: [Room EC, D&IT building, Chalmers Johanneberg](http://maps.chalmers.se/#ec631799-6bfa-4995-95e3-efe03c13ad70)*
->| [Slides](tech-talks/brown_basho.pdf)
+>| [Slides](brown_basho.pdf)
 
 
 \
@@ -54,13 +54,13 @@ There is also an associated [calendar for the talks](https://www.google.com/cale
 
   <hr/>
 
-  <a href="tech-talks/spotify-talk.jpg"><img src="tech-talks/spotify-talk.jpg" alt="Spotify talk" width="31%"></a>
+  <a href="spotify-talk.jpg"><img src="spotify-talk.jpg" alt="Spotify talk" width="31%"></a>
   &nbsp;
-  <a href="tech-talks/volvo-talk2.jpg"><img src="tech-talks/volvo-talk2.jpg" alt="Volvo talk" width="31%"></a>
+  <a href="volvo-talk2.jpg"><img src="volvo-talk2.jpg" alt="Volvo talk" width="31%"></a>
   &nbsp;
-  <a href="tech-talks/ghost-talk.jpg"><img src="tech-talks/ghost-talk.jpg" alt="EA Ghost talk" width="31%"></a>
+  <a href="ghost-talk.jpg"><img src="ghost-talk.jpg" alt="EA Ghost talk" width="31%"></a>
   &nbsp;
-  <a href="tech-talks/volvo-talk.jpg"><img src="tech-talks/volvo-talk.jpg" alt="Volvo talk" width="31%"></a>
+  <a href="volvo-talk.jpg"><img src="volvo-talk.jpg" alt="Volvo talk" width="31%"></a>
 
   <div style="text-align: right;">
 [*](attendance.html)

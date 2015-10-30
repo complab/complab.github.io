@@ -1,5 +1,5 @@
 ---
-title: Abstracts
+title: Abstracts &ndash; 2015-01
 ---
 
 
@@ -47,12 +47,12 @@ conditions.
 
 ## Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place {#olofsson}
 
-  <img src="/images/parallella.png" alt="Parallella board" width="22%" class="talk-img">
+  <img src="parallella.png" alt="Parallella board" width="22%" class="talk-img">
 
 >| *<u>Speaker</u>: Andreas Olofsson (Adapteva)*
 >| *<u>Time</u>: Monday, 2/2, 12.00 - 13.00*
 
-▶ [Slides](tech-talks/olofsson_adapteva.pdf)
+▶ [Slides](olofsson_adapteva.pdf)
 
 In 2008 I left my long time employer (Analog Devices) to start a
 company with a mission to build a new type of parallel computer. This talk
@@ -83,7 +83,7 @@ This talk will focus on how to get engineer efficient development/maintenance of
 >| *<u>Speaker</u>: Angela Wallenburg (Altran UK)*
 >| *<u>Time</u>: Monday, 16/2, 12.00 - 13.00*
 
-▶ [Slides](tech-talks/wallenburg_altran.pdf)
+▶ [Slides](wallenburg_altran.pdf)
 
 Sometimes software really has to work. SPARK is a programming language, a verification toolset and a design method which, taken together, ensure that ultra-low defect software can be deployed. By design, the SPARK language is immune to many programming language vulnerabilities (such as those listed by NIST/CWE/SANS). Under the hood, the SPARK static analysis tools use formal verification (automatic mathematical proof).
 
@@ -95,7 +95,7 @@ During this talk you will learn about the rationale of SPARK. We will cover topi
 
 ## Real Time Deformation in Need for Speed™ {#brinck}
 
-  <img src="/images/nfs.png" alt="Need for Speed™" width="25%" class="talk-img">
+  <img src="nfs.png" alt="Need for Speed™" width="25%" class="talk-img">
 
 >| *<u>Speaker</u>: Andreas Brinck (EA Ghost)*
 >| *<u>Time</u>: Monday, 23/2, 12.00 - 13.00*
@@ -120,7 +120,7 @@ The automotive industry today is transforming rapidly, in a way similar to the t
 >| *<u>Speaker</u>: John Hughes (QuviQ)*
 >| *<u>Time</u>: Monday, 9/3, 12.00 - 13.00*
 
-▶ [Slides](tech-talks/hughes_quviq.pptx)
+▶ [Slides](hughes_quviq.pptx)
 
 In this talk, which is based on presentations I have given many times at
 industry conferences, I will show how QuickCheck can be used to test
@@ -140,7 +140,7 @@ Come and hear about our experiences of putting FP research to work!
 >| *<u>Speaker</u>: Russell Brown (Basho Technologies)*
 >| *<u>Time</u>: Wednesday, May 27, 15.15 - 16.15*
 
-▶ [Slides](tech-talks/brown_basho.pdf)
+▶ [Slides](brown_basho.pdf)
 
 An experience report of taking an academic paper and putting it
 into a commercial product. In this instance an [INRIA tech report](https://hal.inria.fr/inria-00555588)
