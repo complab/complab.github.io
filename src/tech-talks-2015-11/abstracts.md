@@ -23,131 +23,106 @@ title: Abstracts &ndash; 2015-11
 
 
 
-Under construction...
+## Video processors by ARM in smartphones: Parallel software and hardware optimized for high speed and low power consumption {#cremon .first}
 
-  <!--
+>| *<u>Speaker</u>: Jonas Cremon (ARM)*
+>| *<u>Time</u>: Wednesday, 4/11, 11.00 - 11.45*
 
-## Optimizing Audio Content Delivery at Scale {#gustavsson .first}
+Digital video, streamed from Youtube or via satellite or recorded by
+yourself, is always heavily compressed (encoded). Without such compression,
+a DVD would only hold a few minutes of film. Large amounts of computations
+are needed for decode or encode, and specialized hardware is necessary for
+this to be possible on a hand-held device within a reasonable power budget.
 
->| *<u>Speaker</u>: Niklas Gustavsson (Spotify)*
->| *<u>Time</u>: Monday, 26/1, 12.00 - 13.00*
+ARM mainly develops CPUs, and other companies can then license the design
+and build physical chips with it. At the office in Lund we create ARM's
+video processors, which consist of hardware and software developed closely
+together.
 
-▶ [Slides](http://www.cse.chalmers.se/~laurako/links/spotify.pdf)
+This presentation will begin with a short overview of how digital video is
+encoded, and then describe how ARM's video processors are designed to
+handle it, with a focus on the software development. The performance
+requirements mean that a large effort is spent on optimization, down to
+counting single clock cycles. Parallelization is implemented on all levels.
+A peculiarity is the error resilience - the video decoder must never crash
+or abort for any input, no matter how corrupted it is. All the constraints
+together provide interesting challenges for the software development.
 
-Spotify delivers, and this is the technical term, a shitload of audio
-content to its users. And we want to do so with low perceived latency
-and good audio quality. As the number of users increases, lives in
-ever more remote regions and in more heterogeneous device and network
-environments, this has turned into quite a challenge.
-
-This talk will go into detail on these challenges, and the designs
-aimed at keeping the Spotify user experience getting ever better. This
-includes how the internal audio pipeline works and some of the
-optimizations in place to make it perform even under the worst
-conditions.
-
-
-
-## Designing the Epiphany Parallel Processor: Standing on the Shoulders of Giants with Blinders in Place {#olofsson}
-
-  <img src="parallella.png" alt="Parallella board" width="22%" class="talk-img">
-
->| *<u>Speaker</u>: Andreas Olofsson (Adapteva)*
->| *<u>Time</u>: Monday, 2/2, 12.00 - 13.00*
-
-▶ [Slides](olofsson_adapteva.pdf)
-
-In 2008 I left my long time employer (Analog Devices) to start a
-company with a mission to build a new type of parallel computer. This talk
-will present the inspiration, design philosophy, mistakes, success,
-iterations and surprises encountered in designing the Epiphany computer
-architecture, four generations of Epiphany chips, and the $99 Parallella
-credit card sized "supercomputer" project.
+Before I joined ARM, I had mainly developed software on a higher level,
+like C++ running on PCs. My work at ARM has taught me several things that I
+think could be interesting from a general programming perspective,
+regarding parallel computing, error handling, and optimization.
 
 
 
-## Embedded High-Performance Processing -- Challenges in Long-Lifetime Applications {#ahlander}
+## Rapid UI prototyping and changing automotive {#thelin}
 
->| *<u>Speaker</u>: Anders Åhlander (Saab)*
->| *<u>Time</u>: Monday, 9/2, 12.00 - 13.00*
+A quick introduction to the challenges in the automotive infotainment
+industry, why open source will revolutionize it and why automotive
+engineers get to play with cool hardware. After the intro, we continue
+by demonstrating why Qt is the best tool for rapid UI innovation for
+devices through a live demo.
 
-▶ [Slides](http://www.cse.chalmers.se/~laurako/links/saab.pdf)
-
-There is typically a mismatch between the life time of a processing technology generation and the life time of a sensor application. For instance, a radar application may have a life span of 20 years, which translates to many generations of processing technology. This imposes several interesting problems.
-
-This talk will focus on how to get engineer efficient development/maintenance of long-lifetime embedded high-performance applications. How do we handle the mismatch in life time, can we efficiently exploit the evolving processor architectures for functional growth and increased system performance, what possibilities for higher engineering efficiency arise when computational performance increases, etc.?
-
-
-
-## Safe and Secure Programming Using SPARK {#wallenburg}
-
-  <img src="http://www.adacore.com/uploads/customers/project-atc.jpg" alt="SPARK" width="25%" class="talk-img">
-
->| *<u>Speaker</u>: Angela Wallenburg (Altran UK)*
->| *<u>Time</u>: Monday, 16/2, 12.00 - 13.00*
-
-▶ [Slides](wallenburg_altran.pdf)
-
-Sometimes software really has to work. SPARK is a programming language, a verification toolset and a design method which, taken together, ensure that ultra-low defect software can be deployed. By design, the SPARK language is immune to many programming language vulnerabilities (such as those listed by NIST/CWE/SANS). Under the hood, the SPARK static analysis tools use formal verification (automatic mathematical proof).
-
-Generally formal verification is rarely used in industry due to its high cost and level of skill required. However, over the past 25 years SPARK has been applied worldwide in a range of industrial applications. A few examples include Rolls Royce Trent (engine control), EuroFighter Typhoon (military aircraft), and NATS iFACTS (air traffic control). Recently, SPARK has been attributed the reason of success for the Vermont Tech CubeSat, the only one that is still fully operational of NASA’s 2013 launch of 11 mini satellites (ELaNa project).
-
-During this talk you will learn about the rationale of SPARK. We will cover topics such as strong typing, unambiguous semantics, modular verification, contracts, the verifying compiler, scalability, powerful static analysis, combination of test and proof, and cost-competitive development of software to regulations (such as DO-178C).
+>| *<u>Speaker</u>: Johan Thelin (Pelagicore)*
+>| *<u>Time</u>: Wednesday, 11/11, 11.00 - 11.45*
 
 
 
-## Real Time Deformation in Need for Speed™ {#brinck}
+## Positioning and hockey sticks {#ohlson}
 
-  <img src="nfs.png" alt="Need for Speed™" width="25%" class="talk-img">
+>| *<u>Speaker</u>: Tomas Ohlson (TrueFlow)*
+>| *<u>Time</u>: Wednesday, 18/11, 11.00 - 11.45*
 
->| *<u>Speaker</u>: Andreas Brinck (EA Ghost)*
->| *<u>Time</u>: Monday, 23/2, 12.00 - 13.00*
-
-We will showcase how we're using a FEM simulation implemented in compute shaders to apply controlled large scale deformations to a vehicle. The presentation will cover the FEM simulation, mesh generation, and explain how this is used to control the visual representation of a vehicle in the next Need for Speed™.
-
-
-
-## Model Driven Development in Automotive Mechatronics {#lantz}
-
->| *<u>Speaker</u>: Jonn Lantz (Volvo Cars)*
->| *<u>Time</u>: <span class="red">Tuesday, 3/3</span>, 12.00 - 13.00*
-
-▶ [Slides](http://www.cse.chalmers.se/~laurako/links/volvo.pptx)
-
-The automotive industry today is transforming rapidly, in a way similar to the telecom when the millennia was young. The amount of code in cars in growing exponentially with time, and a modern premium car can have over 100 ECUs (embedded computers) in a complex network, with numerous sensors, mechatronic devices and external connections. The new hybrid cars are even more complex. Thus, the challenge is not the same as in the telecom industry, as the car is highly mechanized. Many systems in the car involve feedback loops depending on mechanics, from simple actuators as mirrors to advanced torque control keeping the vehicle on track. As most of these systems involve software they have to be developed using incremental methods. It is impossible to specify the functionality before it has been developed. Hence, “agile” methods are often practiced. However, mechanical devices cannot be developed in this flexible way. They have to be specified and ordered. The solution is to develop software using “plant models”, models of the (assumed) physical system, which are used in test benches and virtual environments – where the software can be tested. Another important aspect of modelling is that the abstraction allows non software experts, as mechanics/electronics engineers, to develop software. Hence, a strategy has formed where almost the complete software related system is developed using models – of software, hardware, communication, environment, etc. The current challenge is to adopt this strategy more to “agile” methods on system (car) level, with fast and reliable feedback from design updates. Historically, model based development has been used mainly for design or descriptive purposes and the change involves a significant “mind shift” for companies, tool vendors and researchers, and lot of new development of tools and frameworks is still required.
+I will speak about choosing technologies and having the confidence to do
+so when approaching something you know nothing about and learning along the
+way. The talk will also encourage people to make startups.
+The scientific challenges of positioning includes: Handling Geometric data,
+efficient routing graph creation, signal filtering for accurate positioning
+and tradeoffs etc.
+Hockeysticks are about caching, how to build something really good,
+mitigating risks and spikes. All in one, getting the low hanging fruits of
+achieving reliability.
 
 
 
-## Testing the Hard Stuff {#hughes}
+## Building industrial grade Modelica compiler {#nakhimovski}
 
->| *<u>Speaker</u>: John Hughes (QuviQ)*
->| *<u>Time</u>: Monday, 9/3, 12.00 - 13.00*
+>| *<u>Speaker</u>: Iakov Nakhimovski (Modelon)*
+>| *<u>Time</u>: Wednesday, 25/11, 11.00 - 11.45*
 
-▶ [Slides](hughes_quviq.pptx)
+Physical system modelling and simulation is an essential part of automatic
+control design. This becomes more and more important as more evolved
+control strategies are applied on larger and more complex systems. Modelica
+is an equation based language designed to enable effective modeling of
+technical systems from different domains facilitating the associated
+analyses.
 
-In this talk, which is based on presentations I have given many times at
-industry conferences, I will show how QuickCheck can be used to test
-traditional imperative code written in C, as well as functional code in
-Erlang, and I will talk about our experiences applying it to embedded
-software for Volvo Cars and tricky cases like race conditions that
-regularly brought down Klarna’s servers. I’m not going to assume any
-knowledge of functional programming, so this talk should be accessible to
-all.
+This talk will give an introduction to the Modelica language and its use in
+the industry. Following the introduction, some topics specific for Modelica
+compiler construction and use will be addressed in more details. In
+particular, use of graph algorithm for equation analysis on one side and
+challenges with continuous delivery of a model compiler will be highlighted.
 
-Come and hear about our experiences of putting FP research to work!
+The talk is based on the experiences with JModelica.ORG framework.
 
 
 
-## CRDT sets from paper to product {#brown}
+## EasyChair {#voronkov}
 
->| *<u>Speaker</u>: Russell Brown (Basho Technologies)*
->| *<u>Time</u>: Wednesday, May 27, 15.15 - 16.15*
+>| *<u>Speaker</u>: Andrei Voronkov (EasyChair)*
+>| *<u>Time</u>: Wednesday, 2/12, 11.00 - 11.45*
 
-▶ [Slides](brown_basho.pdf)
 
-An experience report of taking an academic paper and putting it
-into a commercial product. In this instance an [INRIA tech report](https://hal.inria.fr/inria-00555588)
-on eventually consistent data types and [Bashos's Riak Database](http://basho.com/riak/).
 
-  -->
+## Design space exploration -- a game with at least 4 levels {#nikolai}
+
+>| *<u>Speaker</u>: Mike Nikolai (Siemens Industry Software)*
+>| *<u>Time</u>: Wednesday, 9/12, 11.00 - 11.45*
+
+
+
+## TBA {#thornadtsson}
+
+>| *<u>Speaker</u>: Johan Thornadtsson (Sigma Technology)*
+>| *<u>Time</u>: Wednesday, 16/12, 11.00 - 11.45*
 
