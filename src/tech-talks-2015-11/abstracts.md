@@ -121,7 +121,7 @@ The talk is based on the experiences with JModelica.ORG framework.
 
 
 
-## TBA {#thornadtsson}
+## Challenges for Technical Information and Communication in the Future {#thornadtsson}
 
 >| *<u>Speaker</u>: Johan Thornadtsson (Sigma Technology)*
 >| *<u>Time</u>: Wednesday, 16/12, 11.00 - 11.45*
