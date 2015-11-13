@@ -63,6 +63,8 @@ engineers get to play with cool hardware. After the intro, we continue
 by demonstrating why Qt is the best tool for rapid UI innovation for
 devices through a live demo.
 
+▶ [Slides](thelin_pelagicore.pdf)
+
 >| *<u>Speaker</u>: Johan Thelin (Pelagicore)*
 >| *<u>Time</u>: Wednesday, 11/11, 11.00 - 11.45*
 
