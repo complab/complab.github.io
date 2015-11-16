@@ -23,7 +23,7 @@ The tech talks are sponsored by the [ICT Area of Advance](http://www.chalmers.se
       **18/11**  Tomas Ohlson (TrueFlow)                   [Positioning and hockey sticks](abstracts.html#ohlson)
       **25/11**  Iakov Nakhimovski (Modelon)               [Building industrial grade Modelica compiler](abstracts.html#nakhimovski)
        **2/12**  Andrei Voronkov (EasyChair)               [EasyChair](abstracts.html#voronkov)
-       **9/12**  Mike Nikolai (Siemens Industry Software)  [Design space exploration -- a game with at least 4 levels](abstracts.html#nikolai)
+       **9/12**  Mike Nicolai (Siemens Industry Software)  [Design space exploration -- a game with at least 4 levels](abstracts.html#nicolai)
       **16/12**  Johan Thornadtsson (Sigma Technology)     [Challenges for Technical Information and Communication in the Future](abstracts.html#thornadtsson)
 
 Each presentation will be held from 11.00 to 11.45 in [room HB1, Hörsalsvägen, Chalmers Johanneberg](http://maps.chalmers.se/#4d96c07b-63ec-468d-ba50-82712a158393).

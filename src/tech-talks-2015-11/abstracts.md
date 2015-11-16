@@ -116,10 +116,22 @@ The talk is based on the experiences with JModelica.ORG framework.
 
 
 
-## Design space exploration -- a game with at least 4 levels {#nikolai}
+## Design space exploration -- a game with at least 4 levels {#nicolai}
 
->| *<u>Speaker</u>: Mike Nikolai (Siemens Industry Software)*
+>| *<u>Speaker</u>: Mike Nicolai (Siemens Industry Software)*
 >| *<u>Time</u>: Wednesday, 9/12, 11.00 - 11.45*
+
+The design of complex engineering systems involves creativity and deep
+technical understand of the involved techniques. However, for most modern
+engineering designs, physics and/or system complexity are limiting factors
+for the designer to fully “understand” his design.  To circumvent this
+dilemma design space exploration methods try to abstract physics and system
+complexity and to support creativity by removing tedious tasks.
+
+The talk will define Design Space Exploration in a simulation-based
+system-driven product design context. The fidelity of simulation as well as
+the sophistication of the exploration methods will be discussed. For the
+exploration methods two examples will be presented in more detail.
 
 
 
