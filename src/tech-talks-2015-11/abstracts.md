@@ -75,6 +75,8 @@ devices through a live demo.
 >| *<u>Speaker</u>: Tomas Ohlson (TrueFlow)*
 >| *<u>Time</u>: Wednesday, 18/11, 11.00 - 11.45*
 
+▶ [Slides](ohlson_trueflow.pdf)
+
 I will speak about choosing technologies and having the confidence to do
 so when approaching something you know nothing about and learning along the
 way. The talk will also encourage people to make startups.
