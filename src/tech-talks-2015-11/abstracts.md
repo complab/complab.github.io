@@ -113,10 +113,36 @@ The talk is based on the experiences with JModelica.ORG framework.
 
 
 
-## EasyChair {#voronkov}
+## EasyChair -- Engineering a Large Web Service {#voronkov}
 
->| *<u>Speaker</u>: Andrei Voronkov (EasyChair)*
+>| *<u>Speaker</u>: Andrei Voronkov (University of Manchester & Chalmers & EasyChair)*
 >| *<u>Time</u>: Wednesday, 2/12, 11.00 - 11.45*
+
+EasyChair started in 2002 as a small collection of scripts helping the
+author to organise submission and reviewing for the conferences LPAR
+and CADE. Since then it has served over 30,000 conferences and
+1,500,000 users. The system has over 300,000 lines of source code and
+automates paper submission, reviewing, proceedings generation,
+publishing, conference registration and conference programme
+generation. Several new modules are under development.
+
+The design and architecture of every very large Web service is unique,
+and EasyChair is not an exception. This talk will overview design
+features of EasyChair, including:
+
+  1. Highly agile development methodology
+  2. Design centred around a small number of concepts
+  3. Automatic generation of efficient and secure code
+  4. An object caching technique eliminating mismatch between objects and relational data
+  5. Server-side generation of client-side code
+  6. Automation of code management
+  7. Light-weight code analysis
+  8. Automatic generation of documentation
+  9. Integrity constraint management
+
+I will try to explain various problems arising in running and
+developing a large Web service and why good knowledge of computer
+science is essential to engineer such systems.
 
 
 
