@@ -94,6 +94,8 @@ achieving reliability.
 >| *<u>Speaker</u>: Iakov Nakhimovski (Modelon)*
 >| *<u>Time</u>: Wednesday, 25/11, 11.00 - 11.45*
 
+▶ [Slides](nakhimovski_modelon.pptx)
+
 Physical system modelling and simulation is an essential part of automatic
 control design. This becomes more and more important as more evolved
 control strategies are applied on larger and more complex systems. Modelica
